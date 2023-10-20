@@ -75,17 +75,16 @@
 // является ли второе число кратным первому. Если второе число не кратно числу первомуу, 
 // то программа выводит остаток от деления.
 
-// void CheckMultiple(int a, int b)
-// {
-//     if (a % b == 0)
-//     {
-//         System.Console.WriteLine($"{a} -> кратно {b}");
-//     } else
-//     {
-//         System.Console.WriteLine($"{a} -> некратно {b} остаток {a % b} ");
-//     }
-// }
-
+void CheckMultiple(int a, int b)
+{
+    if (a % b == 0)
+    {
+        System.Console.WriteLine($"{a} -> кратно {b}");
+    } else
+    {
+        System.Console.WriteLine($"{a} -> некратно {b} остаток {a % b} ");
+    }
+}
 System.Console.WriteLine("Input a");
 int num1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Input b");
