@@ -91,3 +91,4 @@ int num1 = Convert.ToInt32(Console.ReadLine());
 System.Console.WriteLine("Input b");
 int num2 = Convert.ToInt32(Console.ReadLine());
 CheckMultiple(num1, num2);
+
