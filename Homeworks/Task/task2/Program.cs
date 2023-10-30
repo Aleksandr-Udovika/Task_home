@@ -25,7 +25,7 @@ else
 
 
 System.Console.Write("Input number: ");
-int num = Convert.ToInt32(Console.ReadLine());
+int number = Convert.ToInt32(Console.ReadLine());
 
 if(num >= 100 && num <= 999)
 {
