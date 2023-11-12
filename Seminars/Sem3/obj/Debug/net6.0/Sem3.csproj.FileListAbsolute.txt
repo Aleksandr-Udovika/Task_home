@@ -1,0 +1,16 @@
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.GlobalUsings.g.cs
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.csproj.AssemblyReference.cache
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfoInputs.cache
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.AssemblyInfo.cs
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.csproj.CoreCompileInputs.cache
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\Sem3.exe
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\Sem3.deps.json
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\Sem3.runtimeconfig.json
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\Sem3.dll
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\ref\Sem3.dll
+C:\C#\#LES\Seminars\Sem3\bin\Debug\net6.0\Sem3.pdb
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.dll
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\ref\Sem3.dll
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.pdb
+C:\C#\#LES\Seminars\Sem3\obj\Debug\net6.0\Sem3.genruntimeconfig.cache
