@@ -26,16 +26,16 @@
 
 // 918 -> 8
 
-// System.Console.Write("Input number: ");
-// int num = Convert.ToInt32(Console.ReadLine());
-// if(num >= 100 && num <= 999)
-// {
-//     System.Console.WriteLine($"{num} -> {num % 10}");
-// }
-// else
-// {
-//     System.Console.WriteLine("Вы ввели не трёхзначное число");
-// }
+System.Console.Write("Input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+if(num >= 100 && num <= 999)
+{
+    System.Console.WriteLine($"{num} -> {num % 10}");
+}
+else
+{
+    System.Console.WriteLine("Вы ввели не трёхзначное число");
+}
 
 
 // System.Console.Write("Input number: ");
