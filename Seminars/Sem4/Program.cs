@@ -38,35 +38,35 @@
 // 4 -> 10
 // 8 -> 36
 
-using System;
+// using System;
 
-class Program
-{
-    public static void Main(string[] args)
-    {
-        Console.WriteLine(factorial(5));
-    }
+// class Program
+// {
+//     public static void Main(string[] args)
+//     {
+//         Console.WriteLine(factorial(5));
+//     }
 
-    // Task - 1
-    static void sumByA(int a)
-    {
-        int sum = 0;
-        for (int i = 1; i <= a; i++)
-        {
-            sum += i;
-        }
-        Console.WriteLine($"Sum of A: {sum}");
-    }
+//     // Task - 1
+//     static void sumByA(int a)
+//     {
+//         int sum = 0;
+//         for (int i = 1; i <= a; i++)
+//         {
+//             sum += i;
+//         }
+//         Console.WriteLine($"Sum of A: {sum}");
+//     }
 
-    // Task - 2 может с 2 начать
+//     // Task - 2 может с 2 начать
 
-    static int factorial(int num)
-    {
-        int result = 1;
-        for (int j = 1; j <= num; j++)
-        {
-            result *= j;
-        }
-        return result;
-    }
-}
+//     static int factorial(int num)
+//     {
+//         int result = 1;
+//         for (int j = 1; j <= num; j++)
+//         {
+//             result *= j;
+//         }
+//         return result;
+//     }
+// }
