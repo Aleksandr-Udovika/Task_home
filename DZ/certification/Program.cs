@@ -5,17 +5,13 @@
 // Console.Write("Введите число: ");
 // int number = Convert.ToInt32(Console.ReadLine());
 // int count = 1;
-
 // MoreToLess(number, count);
-// void MoreToLess(int n, int count)
-// {
-//     if (count > n)
-//     {
+// void MoreToLess(int n, int count) {
+//     if (count > n) {
 //         Console.WriteLine($"Введите корректное число");
 //         return;
 //     }
-//     else
-//     {
+//     else {
 //         MoreToLess(n, count + 1);
 //         Console.Write(count + " ");
 //     }
