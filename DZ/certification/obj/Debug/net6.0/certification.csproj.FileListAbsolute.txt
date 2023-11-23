@@ -1,0 +1,16 @@
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\certification.exe
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\certification.deps.json
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\certification.runtimeconfig.json
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\certification.dll
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\ref\certification.dll
+C:\C#\#LES\DZ\certification\bin\Debug\net6.0\certification.pdb
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.GlobalUsings.g.cs
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.csproj.AssemblyReference.cache
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.AssemblyInfoInputs.cache
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.AssemblyInfo.cs
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.csproj.CoreCompileInputs.cache
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.dll
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\ref\certification.dll
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.pdb
+C:\C#\#LES\DZ\certification\obj\Debug\net6.0\certification.genruntimeconfig.cache

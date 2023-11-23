@@ -133,7 +133,7 @@ int[,] Random2darray(int row, int col, int min, int max)
     int[,] matrix = new int[row, col];
     for (int i = 0; i < row; i++)
     {
-        for(int j = 0; j < col; j++)
+        for (int j = 0; j < col; j++)
         {
             matrix[i, j] = new Random().Next(min, max);
         }
@@ -149,7 +149,7 @@ void printmatrix(int[,] matrix)
         {
             Console.Write($"{matrix[i, j]} ");
         }
-    Console.WriteLine();
+        Console.WriteLine();
     }
 }
 
@@ -157,8 +157,9 @@ void diagsum(int[,] matrix)
 {
     int sum = 0;
     int min = matrix.GetLength[0];
-    if (min > matrix.GetLength[1]) min = matrix.GetLength(1);
-    for(int i = 0; i < min; i++)
+    if (min > matrix.GetLength[1])
+        min = matrix.GetLength(1);
+    for (int i = 0; i < min; i++)
     {
         sum += matrix[i, i];
     }
@@ -171,9 +172,9 @@ int[,] sumindmatrix(int m, int n)
     for (int i = 0; i < m; i++)
     {
         for (int j = 0; j < n; j++)
-            {
-                matrix[i, j] = i + j;
-            }
+        {
+            matrix[i, j] = i + j;
+        }
     }
     return matrix;
 }
@@ -190,7 +191,3 @@ int max = Convert.ToInt32(Console.ReadLine());
 int[,] myMatrix = sumindmatrix(row, col);
 PrintMatrix(myMatrix);
 // System.Console.WriteLine(MainDiagonalSum(myMatrix));
-
-
-
-
